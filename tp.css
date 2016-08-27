@@ -1,0 +1,24 @@
+.text2{
+  color:green;
+}
+ .image {
+    border-color: green;
+    border-width: 5px;
+    border-style: solid;
+  width:100%;
+  hight:50%;
+   }
+  .justify{
+  text-align:justify;
+  margin-left :50px;
+  }
+  .quote{
+  margin-left :50px;
+  font-size:25px;
+ }
+  .link{
+  font-family:Arial Black;
+  font-size:20px;
+  text-decoration:underline;
+   margin-left :30px;
+  }
